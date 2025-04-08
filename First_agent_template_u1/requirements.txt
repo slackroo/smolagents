@@ -1,0 +1,8 @@
+markdownify
+smolagents
+requests
+duckduckgo_search
+pandas
+pytz
+pydantic==2.10.6
+gradio==5.23.1
